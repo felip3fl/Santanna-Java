@@ -42,9 +42,9 @@ Use o ``Eclipse`` para usar este projeto
   
 ## ✔️ Técnicas e tecnologias utilizadas
 <p align="justify">
-<img width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-&nbsp;&nbsp;<img width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-&nbsp;&nbsp;<img width="90px" src="https://raw.githubusercontent.com/felip3fl/felip3fl/1a6a66b6a143aab342cf2df18f56d8c1c7e6c8fb/Material/Icon/vscode.svg">
+<img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+&nbsp;&nbsp;<img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+&nbsp;&nbsp;<img width="80px" src="https://raw.githubusercontent.com/felip3fl/felip3fl/1a6a66b6a143aab342cf2df18f56d8c1c7e6c8fb/Material/Icon/vscode.svg">
 </p>
  
 - ``Java``
