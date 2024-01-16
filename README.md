@@ -1,13 +1,15 @@
 <h3 align="center"> <img src="https://user-images.githubusercontent.com/20684484/235798841-7cec4789-5834-4724-b457-487af796f020.png" width="400px" align="center" ><BR><BR>JAVA</h3>
 
-<h4 align="center">
-:construction:  Projeto usado para estudo, forever em construção  :construction:
-</h4>
+
 
 <h3 align="center">
 <img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-red">
 <img src="https://img.shields.io/badge/PROJECT%20VERSION-0.0.0-blue">
 </h3>
+
+<h4 align="center">
+:construction:  Projeto usado para estudo, forever em construção  :construction:
+</h4>
 
 <BR>
 
